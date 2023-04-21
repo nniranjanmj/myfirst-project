@@ -7,7 +7,7 @@ thats cool buddy
   
   <h2> Call me : + 91 -9886954613  </h2>
   <h3> iam happy with my hardwork </h3>
-    <h4> sagar is my friend </h4>
+    <h4> reema and yashugowda both are my friends </h4>
 
 </body>
 </html>
