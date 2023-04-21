@@ -3,9 +3,9 @@
 <h1><font color='red'> Welcome you niranjan<font></h1>
 <h2>Your first job is completed Now... Iam soo happy</h2>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+thats cool buddy
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h2> Call me : + 91 -9886954613  </h2>
 
 </body>
 </html>
