@@ -1,13 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jenkins</title>
+</head>
 <body>
-<h1><font color='red'> OPERISOFT Ahamadabad<font></h1>
-<h2>Your first job is completed Now... Iam soo happy</h2>
-
-thats cool buddy
-  
-  <h2> Call me : + 91 -9886954613  </h2>
-  <h3> iam happy with my hardwork </h3>
-    <h4> HARBIN SINGH </h4>
-
+  <h1 > WELCOME TO OPERISOFT AHAMADABAD</h1>  
 </body>
 </html>
